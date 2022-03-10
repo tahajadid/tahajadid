@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tahajadid
 - 👀 I’m Mobile developer ...
 - 🌱 I’m always learning different technologies in Android/iOS development
-- 💞️ I’m looking to collaborate on ...
 - 📫 My linkedin linkedin.com/in/taha-jadid e-mail: th.jadid@gmail.com
 
 <!---
