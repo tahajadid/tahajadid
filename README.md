@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tahajadid
-- 👀 I’m Mobile/Backend developer ...
+- 👀 I’m Mobile(Android & iOS)/Backend developer ...
 - 🌱 I’m always learning different technologies && specialist in Android/iOS development
 - 📫 My [linkedin](https://www.linkedin.com/in/taha-jadid/)  -  e-mail: th.jadid@gmail.com
 
