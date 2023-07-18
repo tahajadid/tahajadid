@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tahajadid
+- 👋 Hi, I’m Taha Jadid
 - 👀 I’m Mobile(Android & iOS) developer ...
 - 🌱 I’m always learning different technologies & specialist in Android/iOS development
 - 📫 My [linkedin](https://www.linkedin.com/in/taha-jadid/)  -  e-mail: th.jadid@gmail.com
